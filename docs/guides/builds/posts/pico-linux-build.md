@@ -2,7 +2,9 @@
 date:
   created: 2026-02-14
 categories:
-  - Fixed
+  - fixed
+authors:
+  - obliqueyak
 ---
 
 # Setting up a Meshtastic node on a Raspberry Pi Pico using Linux
